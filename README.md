@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I’m a computer science engineer and Front-end we
 - **High school student**  
 - **MIT Certificate in "Computer scince"**
 - **MIT SPOCs student**
-- **Youth code Gaza Alumini**
-- **Code.x summer camp Alumina**
+- **Youth code Gaza Alumni**
+- **Code.x summer camp Alumni**
   
 🌱 **Currently Learning:** Artificial Intelligence AI , Advanced python , Data analysis .  
 🎨 **Hobbies:** Playing chess , Solve Rubik's cube and reading books.  
@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I’m a computer science engineer and Front-end we
 
 ## 🖥️ Projects
 
-
+To-Do list app using React Native
 ---
 
 ## 🌐 Connect with Me
